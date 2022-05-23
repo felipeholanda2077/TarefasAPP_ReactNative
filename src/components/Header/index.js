@@ -6,7 +6,7 @@ export default class Header extends Component {
   render() {
     return (
       <View style={styles.header}>
-        <Text style={styles.text}>lembre-me</Text>
+        <Text style={styles.text}>lembre.me</Text>
       </View>
     );
   }
