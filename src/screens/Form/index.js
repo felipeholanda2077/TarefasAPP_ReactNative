@@ -48,7 +48,7 @@ const Form = () => {
   return (
     <View style={styles.container}>
       <View style={styles.header}>
-        <Text style={styles.titulo}>Crie uma Nova Tarefa em Sua Agenda</Text>
+        <Text style={styles.titulo}>Nova Tarefa</Text>
       </View>
       <>
         <TextInput
